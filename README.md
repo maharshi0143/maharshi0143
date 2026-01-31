@@ -1,4 +1,3 @@
-<h1>Hi, I am Maharshi Denuvakonda</h1>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/maharshi-denuvakonda-4a6195292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maharshi.dv.kld@gmail.com) 
 
